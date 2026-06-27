@@ -9,8 +9,6 @@
 
 🎓 Computer Science Engineering Graduate
 
-💼 Python & Data Analytics Intern
-
 💻 Passionate about Python Development, Data Analytics and Software Development.
 
 🌱 Currently learning Django, REST APIs and Machine Learning.
