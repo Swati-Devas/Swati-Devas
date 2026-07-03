@@ -52,3 +52,24 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+
+---
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Swati-Devas&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Swati-Devas&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Swati-Devas&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swati-Devas&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
