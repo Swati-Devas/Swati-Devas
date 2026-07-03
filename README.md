@@ -55,14 +55,21 @@
 
 ---
 
+# 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Swati-Devas&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=Swati-Devas&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swati-Devas&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Swati-Devas&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Swati-Devas&theme=github-dark&hide_border=true"/>
 </p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swati-Devas&theme=github_dark"/>
+</p>
+
+
 
 ---
 
